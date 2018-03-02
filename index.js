@@ -1,7 +1,7 @@
-makeInt(n){
+function makeInt(n){
   parseInt(n,10)
 }
 
-preserveDecmial(n){
+function preserveDecmial(n){
   parseFloat(n)
 }

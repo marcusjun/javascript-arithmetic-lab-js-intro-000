@@ -10,6 +10,6 @@ function makeInt(n){
   parseInt(n,10)
 }
 
-function preserveDecmial(n){
+function preserveDecimal(n){
   parseFloat(n)
 }
